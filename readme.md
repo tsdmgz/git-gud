@@ -89,7 +89,7 @@ Converge 2018.
 		* <https://chris.beams.io/posts/git-commit/>
 		* Why 50char subject? Mostly because GitHub
 		* Vim tip: `:set textwidth=72|set colorcolumn=+1`
-		* Emacs/Nano: ¯\_(ツ)_/¯
+		* Emacs/Nano: ¯\\_(ツ)_/¯
 	* Giving someone direct commit access to a repo
 	* `git branch -r`
 * Scenarios
