@@ -119,3 +119,4 @@ Converge 2018.
 	* Pro Git: https://git-scm.com/book
     * Linus quote: <https://www.pcworld.idg.com.au/article/129776/after_controversy_torvalds_begins_work_git_/>
     * Spectre logo: 2018, Natascha Eibl, CC0, <https://vividfox.me>
+    * Git Flavored Markdown guide: <https://guides.github.com/features/mastering-markdown/>
